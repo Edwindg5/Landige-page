@@ -5,9 +5,9 @@ import styles from './ContactSection.module.css';
 
 function ContactSection() {
   const links = [
-    { name: 'Facebook', href: 'https://www.facebook.com' },
-    { name: 'Twitter', href: 'https://www.twitter.com' },
-    { name: 'Instagram', href: 'https://www.instagram.com' },
+    { name: 'Facebook'},
+    { name: 'Twitter' },
+    { name: 'Instagram' },
   ];
 
   return (
